@@ -1,0 +1,5 @@
+cdn.nkstatic.com
+forums.nkstatic.com
+priority-static-api.nkstatic.com
+static-api.nkstatic.com
+fast-static-api.nkstatic.com
